@@ -29,3 +29,20 @@ You can download the dataset from Kaggle or use any customer behavior dataset.
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/mirmoykumarmallick/ML-Customer-Segmentation
+2. **Install Dependencies**:
+   ```bash
+   pip install pandas numpy scikit-learn matplotlib seaborn
+3. **Run the Jupyter Notebook**:
+   - Open the notebook in Google Colab or Jupyter Notebook.
+   - Follow the instructions in the notebook to load the data, preprocess it, and apply K-means clustering.
+4. **Evaluate Segmentation**:
+   - Use the Elbow method to determine the optimal number of clusters.
+   - Visualize the customer segments in terms of PCA components and original features.
+
+## Results
+- The K-means clustering algorithm successfully segmented the customers into distinct groups based on their annual income and spending score.
+- Each cluster represents a unique customer segment that businesses can target for different marketing strategies, such as upselling, cross-selling, or retention 
+  programs.
+
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
