@@ -46,3 +46,8 @@ You can download the dataset from Kaggle or use any customer behavior dataset.
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
+
+## Author
+- Mirmoy Kumar Mallick
+- LinkedIn Profile: linkedin.com/in/mirmoy-kumar-mallick
+- Email: mirmoykumarmallick10@gmail.com
