@@ -28,4 +28,4 @@ You can download the dataset from Kaggle or use any customer behavior dataset.
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/customer-segmentation-ml.git
+   git clone https://github.com/mirmoykumarmallick/ML-Customer-Segmentation
